@@ -1,6 +1,6 @@
 # 🛡️ MUDAH - Monitoring Unified Detection for Application Holes
 
-Sebuah skrip PHP tunggal untuk memvisualisasikan laporan hasil pemindaian kerentanan (vulnerability scan) dari tools DursGo kedalam sebuah dasbor yang interaktif dan mudah dibaca. Dasbor ini dilindungi oleh halaman login dengan CAPTCHA.
+Sebuah skrip PHP tunggal untuk memvisualisasikan laporan hasil pemindaian kerentanan (vulnerability scan) dari tools DursGo https://github.com/roomkangali/dursgo kedalam sebuah dasbor yang interaktif dan mudah dibaca. Dasbor ini dilindungi oleh halaman login dengan CAPTCHA.
 
 ## Deskripsi
 
