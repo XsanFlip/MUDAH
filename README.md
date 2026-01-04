@@ -106,4 +106,4 @@ SOFTWARE.
 
 ## Shout Out
 
-*copy left <?php echo date('Y'); ?> c0ded by Xsan-Lahci shoout out Kang Ali*
+* Kang Ali - https://github.com/roomkangali/dursgo*
