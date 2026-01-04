@@ -17,6 +17,8 @@ Semua fungsionalitas, mulai dari otentikasi, logika backend, hingga tampilan fro
 - **Detail Modal**: Klik pada baris tabel untuk melihat detail lengkap kerentanan, termasuk payload dan saran remediasi.
 - **Portabel**: Seluruh aplikasi hanya terdiri dari satu file.
 - **Kustomisasi Mudah**: Teks panduan dan judul dapat disesuaikan untuk kebutuhan laporan pentest.
+  
+<img width="1920" height="2087" alt="Screenshot 2026-01-04 at 19-20-35 MUDAH - Monitoring Unified Detection for Application Holes" src="https://github.com/user-attachments/assets/6547bf37-a8bf-4e9f-bc3b-511629103fc7" />
 
 ## Prasyarat
 
