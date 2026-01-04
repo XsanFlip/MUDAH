@@ -108,4 +108,4 @@ SOFTWARE.
 
 ## Shout Out
 
-* Kang Ali - https://github.com/roomkangali/dursgo*
+* Kang Ali -* https://github.com/roomkangali/dursgo
